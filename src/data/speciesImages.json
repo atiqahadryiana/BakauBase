@@ -1,0 +1,416 @@
+{
+  "sp-acanthus-ebracteatus": {
+    "src": "/species/sp-acanthus-ebracteatus.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Acanthus_ebracteatus.jpg",
+    "attribution": "Raffi Kojian",
+    "licence": "CC BY-SA 3.0"
+  },
+  "sp-acanthus-ilicifolius": {
+    "src": "/species/sp-acanthus-ilicifolius.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/34560607",
+    "attribution": "no rights reserved, uploaded by 葉子",
+    "licence": "CC0"
+  },
+  "sp-aegiceras-corniculatum": {
+    "src": "/species/sp-aegiceras-corniculatum.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aegiceras_corniculatum_Blanco1_38_cropped.jpg",
+    "attribution": "Francisco Manuel Blanco (O.S.A.)",
+    "licence": "Public domain"
+  },
+  "sp-aganope-heptaphylla": {
+    "src": "/species/sp-aganope-heptaphylla.jpg",
+    "sourceUrl": "https://www.inaturalist.org/photos/1455891",
+    "attribution": "anonymous, no known copyright restrictions (public domain)",
+    "licence": "Public domain"
+  },
+  "sp-allophylus-cobbe": {
+    "src": "/species/sp-allophylus-cobbe.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B4%AE%E0%B5%81%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%A3%E0%B5%8D%E0%B4%A3%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%86%E0%B4%B0%E0%B5%81%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D_-_Allophylus_cobbe_leaves.jpg",
+    "attribution": "Vinayaraj",
+    "licence": "CC BY-SA 3.0"
+  },
+  "sp-ardisia-elliptica": {
+    "src": "/species/sp-ardisia-elliptica.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/39977935",
+    "attribution": "no rights reserved, uploaded by 葉子",
+    "licence": "CC0"
+  },
+  "sp-atalantia-monophylla": {
+    "src": "/species/sp-atalantia-monophylla.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/34279530",
+    "attribution": "(c) Suhel Quader, some rights reserved (CC BY), uploaded by Suhel Quader",
+    "licence": "CC BY"
+  },
+  "sp-avicennia-alba": {
+    "src": "/species/sp-avicennia-alba.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Avicennia_alba.jpg",
+    "attribution": "Abu Hamas",
+    "licence": "CC BY-SA 4.0"
+  },
+  "sp-avicennia": {
+    "src": "/species/sp-avicennia.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Avicennia_marina_var_resinifera_-_globe_derby.jpg",
+    "attribution": "Peripitus",
+    "licence": "CC BY-SA 3.0"
+  },
+  "sp-avicennia-officinalis": {
+    "src": "/species/sp-avicennia-officinalis.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/73847495",
+    "attribution": "(c) renjus box, some rights reserved (CC BY), uploaded by renjus box",
+    "licence": "CC BY"
+  },
+  "sp-bruguiera-cylindrica": {
+    "src": "/species/sp-bruguiera-cylindrica.jpg",
+    "sourceUrl": "https://www.inaturalist.org/photos/50719014",
+    "attribution": "(c) Abu Hamas, some rights reserved (CC BY-SA), uploaded by Abu Hamas",
+    "licence": "CC BY-SA"
+  },
+  "sp-bruguiera": {
+    "src": "/species/sp-bruguiera.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/34559194",
+    "attribution": "no rights reserved, uploaded by 葉子",
+    "licence": "CC0"
+  },
+  "sp-bruguiera-parviflora": {
+    "src": "/species/sp-bruguiera-parviflora.jpg",
+    "sourceUrl": "https://www.inaturalist.org/photos/50717327",
+    "attribution": "(c) Abu Hamas, some rights reserved (CC BY-SA), uploaded by Abu Hamas",
+    "licence": "CC BY-SA"
+  },
+  "sp-bruguiera-sexangula": {
+    "src": "/species/sp-bruguiera-sexangula.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bruguiera_sexangula_seeds.jpg",
+    "attribution": "Steve Hurst @ USDA-NRCS PLANTS Database",
+    "licence": "Public domain"
+  },
+  "sp-buchanania-arborescens": {
+    "src": "/species/sp-buchanania-arborescens.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/239075840",
+    "attribution": "no rights reserved, uploaded by 葉子",
+    "licence": "CC0"
+  },
+  "sp-guilandina-bonduc": {
+    "src": "/species/sp-guilandina-bonduc.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guilandina_bonduc_fruit_in_Aceh.jpg",
+    "attribution": "Si Gam",
+    "licence": "CC BY-SA 4.0"
+  },
+  "sp-cerbera-manghas": {
+    "src": "/species/sp-cerbera-manghas.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/27970569",
+    "attribution": "no rights reserved, uploaded by 葉子",
+    "licence": "CC0"
+  },
+  "sp-excoecaria-agallocha": {
+    "src": "/species/sp-excoecaria-agallocha.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/65719116",
+    "attribution": "no rights reserved, uploaded by 葉子",
+    "licence": "CC0"
+  },
+  "sp-ficus-microcarpa": {
+    "src": "/species/sp-ficus-microcarpa.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/59896114",
+    "attribution": "no rights reserved, uploaded by 葉子",
+    "licence": "CC0"
+  },
+  "sp-heritiera-littoralis": {
+    "src": "/species/sp-heritiera-littoralis.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/65718850",
+    "attribution": "no rights reserved, uploaded by 葉子",
+    "licence": "CC0"
+  },
+  "sp-lumnitzera-racemosa": {
+    "src": "/species/sp-lumnitzera-racemosa.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/50697869",
+    "attribution": "no rights reserved, uploaded by 葉子",
+    "licence": "CC0"
+  },
+  "sp-osbornia-octodonta": {
+    "src": "/species/sp-osbornia-octodonta.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/29711773",
+    "attribution": "(c) coenobita, some rights reserved (CC BY), uploaded by coenobita",
+    "licence": "CC BY"
+  },
+  "sp-oxyceros-longiflorus": {
+    "src": "/species/sp-oxyceros-longiflorus.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oxyceros_longiflorus_323263423.jpg",
+    "attribution": "scallions",
+    "licence": "CC BY 4.0"
+  },
+  "sp-pandanus-tectorius": {
+    "src": "/species/sp-pandanus-tectorius.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pandanus_tectorius.jpg",
+    "attribution": "No machine-readable author provided. Marshman~commonswiki assumed (based on copyright claims).",
+    "licence": "CC BY-SA 3.0"
+  },
+  "sp-pemphis-acidula": {
+    "src": "/species/sp-pemphis-acidula.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/64811060",
+    "attribution": "no rights reserved, uploaded by 葉子",
+    "licence": "CC0"
+  },
+  "sp-pouteria-obovata": {
+    "src": "/species/sp-pouteria-obovata.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pouteria_obovata_RGB_Sydney.jpg",
+    "attribution": "Poyt448 Peter Woodard",
+    "licence": "Public domain"
+  },
+  "sp-pluchea-indica": {
+    "src": "/species/sp-pluchea-indica.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/28138419",
+    "attribution": "no rights reserved, uploaded by 葉子",
+    "licence": "CC0"
+  },
+  "sp-premna-serratifolia": {
+    "src": "/species/sp-premna-serratifolia.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/32129731",
+    "attribution": "(c) 呂一起(Lyu yi-chi), some rights reserved (CC BY), uploaded by 呂一起(Lyu yi-chi)",
+    "licence": "CC BY"
+  },
+  "sp-rhizophora": {
+    "src": "/species/sp-rhizophora.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/50573170",
+    "attribution": "(c) Abu Hamas, some rights reserved (CC BY-SA), uploaded by Abu Hamas",
+    "licence": "CC BY-SA"
+  },
+  "sp-rhizophora-mucronata": {
+    "src": "/species/sp-rhizophora-mucronata.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rhizophora_mucronata_Propagules.jpg",
+    "attribution": "self",
+    "licence": "CC BY-SA 3.0"
+  },
+  "sp-rhizophora-stylosa": {
+    "src": "/species/sp-rhizophora-stylosa.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/50696995",
+    "attribution": "no rights reserved, uploaded by 葉子",
+    "licence": "CC0"
+  },
+  "sp-sesuvium-portulacastrum": {
+    "src": "/species/sp-sesuvium-portulacastrum.jpg",
+    "sourceUrl": "https://www.inaturalist.org/photos/2743722",
+    "attribution": "(c) Nick Block, some rights reserved (CC BY), uploaded by Nick Block",
+    "licence": "CC BY"
+  },
+  "sp-sonneratia": {
+    "src": "/species/sp-sonneratia.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sonneratia_alba_-_fruit_(8349980264).jpg",
+    "attribution": "Ton Rulkens from Mozambique",
+    "licence": "CC BY-SA 2.0"
+  },
+  "sp-sonneratia-caseolaris": {
+    "src": "/species/sp-sonneratia-caseolaris.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sonneratia_caseolaris_in_Kannur.jpg",
+    "attribution": "Shagil Kannur",
+    "licence": "CC BY-SA 3.0"
+  },
+  "sp-thespesia-populnea": {
+    "src": "/species/sp-thespesia-populnea.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/61022916",
+    "attribution": "(c) Daniel Cahen, some rights reserved (CC BY), uploaded by Daniel Cahen",
+    "licence": "CC BY"
+  },
+  "sp-volkameria-inermis": {
+    "src": "/species/sp-volkameria-inermis.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/61261588",
+    "attribution": "no rights reserved, uploaded by 葉子",
+    "licence": "CC0"
+  },
+  "sp-xylocarpus-moluccensis": {
+    "src": "/species/sp-xylocarpus-moluccensis.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/176515667",
+    "attribution": "(c) Steve Fitzgerald, some rights reserved (CC BY-SA), uploaded by Steve Fitzgerald",
+    "licence": "CC BY-SA"
+  },
+  "sp-camptostemon-philippinense": {
+    "src": "/species/sp-camptostemon-philippinense.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camptostemon_philippinense.jpg",
+    "attribution": "Abu Hamas",
+    "licence": "CC BY-SA 4.0"
+  },
+  "sp-cerbera-odollam": {
+    "src": "/species/sp-cerbera-odollam.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cerbera_odollam_07637.JPG",
+    "attribution": "Vengolis",
+    "licence": "CC BY-SA 4.0"
+  },
+  "sp-ceriops-tagal": {
+    "src": "/species/sp-ceriops-tagal.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ceriops_tagal_-_flowers_(8349980250).jpg",
+    "attribution": "Ton Rulkens from Mozambique",
+    "licence": "CC BY-SA 2.0"
+  },
+  "sp-cratoxylum-cochinchinense": {
+    "src": "/species/sp-cratoxylum-cochinchinense.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cratoxylum_cochinchinense.JPG",
+    "attribution": "Cychk ( cychk )",
+    "licence": "CC BY-SA 4.0"
+  },
+  "sp-crinum-asiaticum": {
+    "src": "/species/sp-crinum-asiaticum.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crinum_asiaticum_1.jpg",
+    "attribution": "Franz Xaver",
+    "licence": "CC BY-SA 3.0"
+  },
+  "sp-flagellaria-indica": {
+    "src": "/species/sp-flagellaria-indica.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flagellaria_indica_Royal_National_Park.jpg",
+    "attribution": "Poyt448 Peter Woodard",
+    "licence": "CC0"
+  },
+  "sp-guettarda-speciosa": {
+    "src": "/species/sp-guettarda-speciosa.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guettarda_speciosa_flower_buds_Beqa_Fiji_2.jpg",
+    "attribution": "MurielBendel",
+    "licence": "CC BY-SA 4.0"
+  },
+  "sp-hoya-coronaria": {
+    "src": "/species/sp-hoya-coronaria.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hoya_coronaria_curtis_botanical_magazine_vol83_1857_pl4969.jpg",
+    "attribution": "William Jackson Hooker (1785-1865)",
+    "licence": "Public domain"
+  },
+  "sp-intsia-bijuga": {
+    "src": "/species/sp-intsia-bijuga.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Intsia_bijuga.jpg",
+    "attribution": "Denis.prévôt",
+    "licence": "CC BY-SA 3.0"
+  },
+  "sp-lumnitzera-littorea": {
+    "src": "/species/sp-lumnitzera-littorea.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lumnitzera_littorea.jpg",
+    "attribution": "Tauʻolunga",
+    "licence": "CC BY-SA 3.0"
+  },
+  "sp-melanthera-biflora": {
+    "src": "/species/sp-melanthera-biflora.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Melanthera_biflora847.JPG",
+    "attribution": "Xufanc",
+    "licence": "CC BY-SA 4.0"
+  },
+  "sp-nypa-fruticans": {
+    "src": "/species/sp-nypa-fruticans.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nypa_fruticans_Sarawak.jpg",
+    "attribution": "Bernard DUPONT",
+    "licence": "CC BY-SA 2.0"
+  },
+  "sp-sonneratia-ovata": {
+    "src": "/species/sp-sonneratia-ovata.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sonneratia_ovata.jpg",
+    "attribution": "Abu Hamas",
+    "licence": "CC BY-SA 4.0"
+  },
+  "sp-stachytarpheta-indica": {
+    "src": "/species/sp-stachytarpheta-indica.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stachytarpheta_indica.jpg",
+    "attribution": "Devanand Pillai",
+    "licence": "CC BY-SA 3.0"
+  },
+  "sp-xylocarpus-granatum": {
+    "src": "/species/sp-xylocarpus-granatum.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xylocarpus_granatum.jpg",
+    "attribution": "Toby Hudson",
+    "licence": "CC BY-SA 3.0"
+  },
+  "sp-xylocarpus-rumphii": {
+    "src": "/species/sp-xylocarpus-rumphii.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xylocarpus-rumphii-ALA-1.jpg",
+    "attribution": "Karin McKirdy",
+    "licence": "CC BY 4.0"
+  },
+  "sp-aegiceras-floridum": {
+    "src": "/species/sp-aegiceras-floridum.jpg",
+    "sourceUrl": "https://www.inaturalist.org/photos/10489616",
+    "attribution": "(c) milmanindo, some rights reserved (CC BY-NC), uploaded by milmanindo",
+    "licence": "CC BY-NC"
+  },
+  "sp-bruguiera-x-hainesii": {
+    "src": "/species/sp-bruguiera-x-hainesii.jpg",
+    "sourceUrl": "https://www.inaturalist.org/photos/1460040",
+    "attribution": "(c) Ria Tan, some rights reserved (CC BY-NC-SA)",
+    "licence": "CC BY-NC-SA"
+  },
+  "sp-elaeodendron-viburnifolium": {
+    "src": "/species/sp-elaeodendron-viburnifolium.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/202193748",
+    "attribution": "(c) Gavin, some rights reserved (CC BY-NC), uploaded by Gavin",
+    "licence": "CC BY-NC"
+  },
+  "sp-dendrolobium-umbellatum": {
+    "src": "/species/sp-dendrolobium-umbellatum.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/188485459",
+    "attribution": "(c) 李成華, certains droits réservés (CC BY-NC), publiées par 李成華",
+    "licence": "CC BY-NC"
+  },
+  "sp-derris-trifoliata": {
+    "src": "/species/sp-derris-trifoliata.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/30961836",
+    "attribution": "(c) Rujuta Vinod, some rights reserved (CC BY-NC), uploaded by Rujuta Vinod",
+    "licence": "CC BY-NC"
+  },
+  "sp-dolichandrone-spathacea": {
+    "src": "/species/sp-dolichandrone-spathacea.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/55950277",
+    "attribution": "(c) John Howes, some rights reserved (CC BY-NC), uploaded by John Howes",
+    "licence": "CC BY-NC"
+  },
+  "sp-ficus-sundaica": {
+    "src": "/species/sp-ficus-sundaica.jpg",
+    "sourceUrl": "https://www.inaturalist.org/photos/528629589",
+    "attribution": "(c) Desita Dyah D A Kusumaningrum, some rights reserved (CC BY-NC), uploaded by Desita Dyah D A Kusumaningrum",
+    "licence": "CC BY-NC"
+  },
+  "sp-finlaysonia-obovata": {
+    "src": "/species/sp-finlaysonia-obovata.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/103142155",
+    "attribution": "(c) Mochammad Imron Afriandi, some rights reserved (CC BY-NC), uploaded by Mochammad Imron Afriandi",
+    "licence": "CC BY-NC"
+  },
+  "sp-oncosperma-tigillarium": {
+    "src": "/species/sp-oncosperma-tigillarium.jpg",
+    "sourceUrl": "https://www.inaturalist.org/photos/118272895",
+    "attribution": "(c) EcoProf, some rights reserved (CC BY-NC), uploaded by EcoProf",
+    "licence": "CC BY-NC"
+  },
+  "sp-rhizophora-x-lamarckii": {
+    "src": "/species/sp-rhizophora-x-lamarckii.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/121156119",
+    "attribution": "(c) Nick Lambert, some rights reserved (CC BY-NC-SA), uploaded by Nick Lambert",
+    "licence": "CC BY-NC-SA"
+  },
+  "sp-sonneratia-griffithii": {
+    "src": "/species/sp-sonneratia-griffithii.jpg",
+    "sourceUrl": "https://www.inaturalist.org/photos/186197375",
+    "attribution": "(c) chatree49, alguns direitos reservados (CC BY-NC)",
+    "licence": "CC BY-NC"
+  },
+  "sp-phyllanthus-reclinatus": {
+    "src": "/species/sp-phyllanthus-reclinatus.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/1475870",
+    "attribution": "(c) Royal Botanic Garden Edinburgh, some rights reserved (CC BY-NC)",
+    "licence": "CC BY-NC"
+  },
+  "sp-phyllanthus-littoralis": {
+    "src": "/species/sp-phyllanthus-littoralis.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/106649021",
+    "attribution": "(c) Catalina Tong, some rights reserved (CC BY-NC), uploaded by Catalina Tong",
+    "licence": "CC BY-NC"
+  },
+  "sp-millettia-pinnata": {
+    "src": "/species/sp-millettia-pinnata.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pongamia_pinnata_Blanco2.417-cropped.jpg",
+    "attribution": "Francisco Manuel Blanco (O.S.A.)",
+    "licence": "Public domain"
+  },
+  "sp-scyphiphora-hydrophyllacea": {
+    "src": "/species/sp-scyphiphora-hydrophyllacea.jpg",
+    "sourceUrl": "https://www.inaturalist.org/photos/1469341",
+    "attribution": "(c) wan_hong, some rights reserved (CC BY-NC-SA)",
+    "licence": "CC BY-NC-SA"
+  },
+  "sp-talipariti-tiliaceum": {
+    "src": "/species/sp-talipariti-tiliaceum.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/19582594",
+    "attribution": "(c) tern911, some rights reserved (CC BY-NC), uploaded by tern911",
+    "licence": "CC BY-NC"
+  }
+}

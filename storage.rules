@@ -1,0 +1,8 @@
+rules_version = '2';
+
+// Unrestricted demo rules. The standalone prototype does not use Storage.
+service firebase.storage {
+  match /b/{bucket}/o {
+    match /{allPaths=**} { allow read, write: if true; }
+  }
+}

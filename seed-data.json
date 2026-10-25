@@ -1,0 +1,495 @@
+{
+  "sites": [
+    {
+      "id": "site-kilim",
+      "name": "Kilim Karst Geoforest Park",
+      "state": "Kedah",
+      "location": { "lat": 6.4051, "lng": 99.8583 },
+      "sourceUrl": "https://kilimgeoforestpark.com/kilim-geoforest-park/",
+      "locationVerified": true,
+      "coordinatorUid": "coordinator-001"
+    },
+    {
+      "id": "site-matang",
+      "name": "Matang Mangrove Forest Reserve",
+      "state": "Perak",
+      "location": { "lat": 4.8402, "lng": 100.6356 },
+      "sourceUrl": "https://www.forestry.gov.my/en/perak/pusat-eko-pelajaran-hutan-paya-laut-matang",
+      "locationVerified": true,
+      "coordinatorUid": "coordinator-002"
+    },
+    {
+      "id": "site-kinabenuwa",
+      "name": "Kina Benuwa Mangrove Ecology Park",
+      "state": "Labuan",
+      "location": { "lat": 5.2835646, "lng": 115.2115814 },
+      "sourceUrl": "https://labuantourism.my/inabenuwa-eco-tourism/",
+      "locationVerified": true,
+      "coordinatorUid": "coordinator-001"
+    }
+  ],
+  "species": [
+    {
+      "id": "sp-rhizophora",
+      "scientificName": "Rhizophora apiculata",
+      "localName": "Bakau Minyak",
+      "carbonFactors": {
+        "1": 0.005,
+        "2": 0.012,
+        "3": 0.022,
+        "5": 0.045,
+        "10": 0.12,
+        "15": 0.22,
+        "20": 0.35,
+        "25": 0.48,
+        "30": 0.60
+      },
+      "_note": "TODO: Replace with published allometric data. These are PLACEHOLDER values loosely based on literature ranges for Rhizophora spp. in Southeast Asia."
+    },
+    {
+      "id": "sp-avicennia",
+      "scientificName": "Avicennia marina",
+      "localName": "Api-api Putih",
+      "carbonFactors": {
+        "1": 0.004,
+        "2": 0.009,
+        "3": 0.018,
+        "5": 0.038,
+        "10": 0.095,
+        "15": 0.17,
+        "20": 0.27,
+        "25": 0.38,
+        "30": 0.48
+      },
+      "_note": "TODO: Replace with published allometric data. PLACEHOLDER values."
+    },
+    {
+      "id": "sp-sonneratia",
+      "scientificName": "Sonneratia alba",
+      "localName": "Perepat",
+      "carbonFactors": {
+        "1": 0.006,
+        "2": 0.014,
+        "3": 0.028,
+        "5": 0.055,
+        "10": 0.14,
+        "15": 0.26,
+        "20": 0.40,
+        "25": 0.55,
+        "30": 0.70
+      },
+      "_note": "TODO: Replace with published allometric data. PLACEHOLDER values."
+    },
+    {
+      "id": "sp-bruguiera",
+      "scientificName": "Bruguiera gymnorrhiza",
+      "localName": "Tumu Merah",
+      "carbonFactors": {
+        "1": 0.004,
+        "2": 0.010,
+        "3": 0.020,
+        "5": 0.040,
+        "10": 0.10,
+        "15": 0.19,
+        "20": 0.30,
+        "25": 0.42,
+        "30": 0.53
+      },
+      "_note": "TODO: Replace with published allometric data. PLACEHOLDER values."
+    }
+  ],
+  "plots": [
+    {
+      "id": "plot-001",
+      "siteId": "site-kilim",
+      "location": { "lat": 6.4053, "lng": 99.8581 },
+      "species": "sp-rhizophora",
+      "seedlingsPlanted": 50,
+      "plantedAt": "2025-03-15T08:00:00Z",
+      "createdBy": "volunteer-001",
+      "status": "healthy",
+      "survivalRate": 88,
+      "estimatedCarbonLow": 0.1155,
+      "estimatedCarbonHigh": 0.2145,
+      "photoUrl": ""
+    },
+    {
+      "id": "plot-002",
+      "siteId": "site-kilim",
+      "location": { "lat": 6.4049, "lng": 99.8585 },
+      "species": "sp-avicennia",
+      "seedlingsPlanted": 35,
+      "plantedAt": "2025-04-22T08:00:00Z",
+      "createdBy": "volunteer-002",
+      "status": "at_risk",
+      "survivalRate": 57,
+      "estimatedCarbonLow": 0.0508,
+      "estimatedCarbonHigh": 0.0944,
+      "photoUrl": ""
+    },
+    {
+      "id": "plot-003",
+      "siteId": "site-kilim",
+      "location": { "lat": 6.4055, "lng": 99.8587 },
+      "species": "sp-rhizophora",
+      "seedlingsPlanted": 80,
+      "plantedAt": "2025-01-10T08:00:00Z",
+      "createdBy": "volunteer-001",
+      "status": "healthy",
+      "survivalRate": 92,
+      "estimatedCarbonLow": 0.2054,
+      "estimatedCarbonHigh": 0.3815,
+      "photoUrl": ""
+    },
+    {
+      "id": "plot-004",
+      "siteId": "site-matang",
+      "location": { "lat": 4.8403, "lng": 100.6354 },
+      "species": "sp-sonneratia",
+      "seedlingsPlanted": 60,
+      "plantedAt": "2025-06-01T08:00:00Z",
+      "createdBy": "volunteer-003",
+      "status": "healthy",
+      "survivalRate": 75,
+      "estimatedCarbonLow": 0.1386,
+      "estimatedCarbonHigh": 0.2574,
+      "photoUrl": ""
+    },
+    {
+      "id": "plot-005",
+      "siteId": "site-matang",
+      "location": { "lat": 4.8399, "lng": 100.6358 },
+      "species": "sp-bruguiera",
+      "seedlingsPlanted": 45,
+      "plantedAt": "2025-05-15T08:00:00Z",
+      "createdBy": "volunteer-004",
+      "status": "failing",
+      "survivalRate": 33,
+      "estimatedCarbonLow": 0.0369,
+      "estimatedCarbonHigh": 0.0686,
+      "photoUrl": ""
+    },
+    {
+      "id": "plot-006",
+      "siteId": "site-matang",
+      "location": { "lat": 4.8405, "lng": 100.6359 },
+      "species": "sp-avicennia",
+      "seedlingsPlanted": 40,
+      "plantedAt": "2025-07-20T08:00:00Z",
+      "createdBy": "volunteer-003",
+      "status": "no_check",
+      "survivalRate": null,
+      "estimatedCarbonLow": 0.0786,
+      "estimatedCarbonHigh": 0.1460,
+      "photoUrl": ""
+    },
+    {
+      "id": "plot-007",
+      "siteId": "site-kinabenuwa",
+      "location": { "lat": 5.2837, "lng": 115.2114 },
+      "species": "sp-rhizophora",
+      "seedlingsPlanted": 100,
+      "plantedAt": "2025-02-28T08:00:00Z",
+      "createdBy": "volunteer-005",
+      "status": "healthy",
+      "survivalRate": 85,
+      "estimatedCarbonLow": 0.2474,
+      "estimatedCarbonHigh": 0.4595,
+      "photoUrl": ""
+    },
+    {
+      "id": "plot-008",
+      "siteId": "site-kinabenuwa",
+      "location": { "lat": 5.2833, "lng": 115.2118 },
+      "species": "sp-sonneratia",
+      "seedlingsPlanted": 70,
+      "plantedAt": "2025-04-10T08:00:00Z",
+      "createdBy": "volunteer-006",
+      "status": "at_risk",
+      "survivalRate": 50,
+      "estimatedCarbonLow": 0.1029,
+      "estimatedCarbonHigh": 0.1911,
+      "photoUrl": ""
+    },
+    {
+      "id": "plot-009",
+      "siteId": "site-kinabenuwa",
+      "location": { "lat": 5.2839, "lng": 115.2117 },
+      "species": "sp-bruguiera",
+      "seedlingsPlanted": 55,
+      "plantedAt": "2025-08-05T08:00:00Z",
+      "createdBy": "volunteer-005",
+      "status": "no_check",
+      "survivalRate": null,
+      "estimatedCarbonLow": 0.0616,
+      "estimatedCarbonHigh": 0.1144,
+      "photoUrl": ""
+    },
+    {
+      "id": "plot-010",
+      "siteId": "site-kinabenuwa",
+      "location": { "lat": 5.2834, "lng": 115.2113 },
+      "species": "sp-avicennia",
+      "seedlingsPlanted": 30,
+      "plantedAt": "2025-09-12T08:00:00Z",
+      "createdBy": "volunteer-007",
+      "status": "healthy",
+      "survivalRate": 90,
+      "estimatedCarbonLow": 0.0659,
+      "estimatedCarbonHigh": 0.1224,
+      "photoUrl": ""
+    }
+  ],
+  "incidents": [
+    {
+      "id": "incident-001",
+      "type": "waste",
+      "severity": "medium",
+      "location": { "lat": 6.4052, "lng": 99.8584 },
+      "notes": "Plastic waste caught between young mangroves after the high tide.",
+      "status": "reported",
+      "submittedBy": "volunteer-001",
+      "createdAt": "2025-09-18T08:00:00Z",
+      "photoUrl": ""
+    },
+    {
+      "id": "incident-002",
+      "type": "erosion",
+      "severity": "high",
+      "location": { "lat": 4.8401, "lng": 100.6357 },
+      "notes": "Bank erosion has exposed roots along the eastern edge.",
+      "status": "reviewing",
+      "submittedBy": "volunteer-003",
+      "createdAt": "2025-10-03T08:00:00Z",
+      "photoUrl": ""
+    },
+    {
+      "id": "incident-003",
+      "type": "dyingTrees",
+      "severity": "medium",
+      "location": { "lat": 5.2835, "lng": 115.2116 },
+      "notes": "A small cluster of mature trees shows leaf loss.",
+      "status": "resolved",
+      "submittedBy": "volunteer-005",
+      "createdAt": "2025-10-07T08:00:00Z",
+      "photoUrl": ""
+    }
+  ],
+  "observations": [
+    {
+      "plotId": "plot-001",
+      "id": "obs-001",
+      "date": "2025-06-15T08:00:00Z",
+      "aliveCount": 46,
+      "deadCount": 4,
+      "photoUrl": "",
+      "notes": "3 months check. Most seedlings growing well. 4 damaged by wave action.",
+      "submittedBy": "volunteer-001",
+      "verified": true
+    },
+    {
+      "plotId": "plot-001",
+      "id": "obs-002",
+      "date": "2025-09-15T08:00:00Z",
+      "aliveCount": 44,
+      "deadCount": 6,
+      "photoUrl": "",
+      "notes": "6 months check. Good growth. 2 more lost to erosion near the edge.",
+      "submittedBy": "volunteer-001",
+      "verified": true
+    },
+    {
+      "plotId": "plot-002",
+      "id": "obs-003",
+      "date": "2025-07-22T08:00:00Z",
+      "aliveCount": 28,
+      "deadCount": 7,
+      "photoUrl": "",
+      "notes": "3 months check. Some seedlings stressed from brackish water changes.",
+      "submittedBy": "volunteer-002",
+      "verified": false
+    },
+    {
+      "plotId": "plot-002",
+      "id": "obs-004",
+      "date": "2025-10-01T08:00:00Z",
+      "aliveCount": 20,
+      "deadCount": 15,
+      "photoUrl": "",
+      "notes": "More die-off observed. Possible pollution from upstream. Reported to coordinator.",
+      "submittedBy": "volunteer-002",
+      "verified": true
+    },
+    {
+      "plotId": "plot-003",
+      "id": "obs-005",
+      "date": "2025-04-10T08:00:00Z",
+      "aliveCount": 78,
+      "deadCount": 2,
+      "photoUrl": "",
+      "notes": "3 months check. Excellent growth. Tallest seedlings about 40cm.",
+      "submittedBy": "volunteer-001",
+      "verified": true
+    },
+    {
+      "plotId": "plot-003",
+      "id": "obs-006",
+      "date": "2025-07-10T08:00:00Z",
+      "aliveCount": 76,
+      "deadCount": 4,
+      "photoUrl": "",
+      "notes": "6 months check. Strong growth. Some prop roots visible.",
+      "submittedBy": "volunteer-001",
+      "verified": true
+    },
+    {
+      "plotId": "plot-004",
+      "id": "obs-007",
+      "date": "2025-09-01T08:00:00Z",
+      "aliveCount": 45,
+      "deadCount": 15,
+      "photoUrl": "",
+      "notes": "3 months check. Some seedlings competed out by existing vegetation.",
+      "submittedBy": "volunteer-003",
+      "verified": false
+    },
+    {
+      "plotId": "plot-005",
+      "id": "obs-008",
+      "date": "2025-08-15T08:00:00Z",
+      "aliveCount": 22,
+      "deadCount": 23,
+      "photoUrl": "",
+      "notes": "3 months check. Heavy loss from storm damage in July. Site needs replanting.",
+      "submittedBy": "volunteer-004",
+      "verified": true
+    },
+    {
+      "plotId": "plot-005",
+      "id": "obs-009",
+      "date": "2025-10-05T08:00:00Z",
+      "aliveCount": 15,
+      "deadCount": 30,
+      "photoUrl": "",
+      "notes": "Continued decline. Only 15 surviving. Coordinator recommends replanting.",
+      "submittedBy": "volunteer-004",
+      "verified": true
+    },
+    {
+      "plotId": "plot-007",
+      "id": "obs-010",
+      "date": "2025-05-28T08:00:00Z",
+      "aliveCount": 92,
+      "deadCount": 8,
+      "photoUrl": "",
+      "notes": "3 months check. Strong survival in the demonstration plot near Kina Benuwa.",
+      "submittedBy": "volunteer-005",
+      "verified": true
+    },
+    {
+      "plotId": "plot-007",
+      "id": "obs-011",
+      "date": "2025-08-28T08:00:00Z",
+      "aliveCount": 85,
+      "deadCount": 15,
+      "photoUrl": "",
+      "notes": "6 months check. Some loss during monsoon season but overall healthy.",
+      "submittedBy": "volunteer-005",
+      "verified": true
+    },
+    {
+      "plotId": "plot-008",
+      "id": "obs-012",
+      "date": "2025-07-10T08:00:00Z",
+      "aliveCount": 45,
+      "deadCount": 25,
+      "photoUrl": "",
+      "notes": "3 months. High wave energy area. Many seedlings uprooted.",
+      "submittedBy": "volunteer-006",
+      "verified": false
+    },
+    {
+      "plotId": "plot-008",
+      "id": "obs-013",
+      "date": "2025-10-02T08:00:00Z",
+      "aliveCount": 35,
+      "deadCount": 35,
+      "photoUrl": "",
+      "notes": "6 months. Survival dropping. Need wave barriers.",
+      "submittedBy": "volunteer-006",
+      "verified": true
+    },
+    {
+      "plotId": "plot-010",
+      "id": "obs-014",
+      "date": "2025-10-08T08:00:00Z",
+      "aliveCount": 27,
+      "deadCount": 3,
+      "photoUrl": "",
+      "notes": "First check at 1 month. Looking good so far.",
+      "submittedBy": "volunteer-007",
+      "verified": false
+    }
+  ],
+  "stats": {
+    "totalPlots": 10,
+    "incidentCount": 3,
+    "recentIncidents": [
+      { "id": "incident-003", "type": "dyingTrees", "severity": "medium", "status": "resolved", "createdAt": "2025-10-07T08:00:00Z" },
+      { "id": "incident-002", "type": "erosion", "severity": "high", "status": "reviewing", "createdAt": "2025-10-03T08:00:00Z" },
+      { "id": "incident-001", "type": "waste", "severity": "medium", "status": "reported", "createdAt": "2025-09-18T08:00:00Z" }
+    ],
+    "totalSeedlings": 565,
+    "totalAlive": 431,
+    "overallSurvivalRate": 76,
+    "totalCO2eLow": 1.1036,
+    "totalCO2eHigh": 2.0498,
+    "bySite": {
+      "Kilim Karst Geoforest Park": {
+        "plots": 3,
+        "seedlings": 165,
+        "alive": 140,
+        "survivalRate": 85
+      },
+      "Matang Mangrove Forest Reserve": {
+        "plots": 3,
+        "seedlings": 145,
+        "alive": 100,
+        "survivalRate": 69
+      },
+      "Kina Benuwa Mangrove Ecology Park": {
+        "plots": 4,
+        "seedlings": 255,
+        "alive": 191,
+        "survivalRate": 75
+      }
+    },
+    "cumulativeByMonth": [
+      { "month": "2025-01", "seedlings": 80 },
+      { "month": "2025-02", "seedlings": 180 },
+      { "month": "2025-03", "seedlings": 230 },
+      { "month": "2025-04", "seedlings": 300 },
+      { "month": "2025-05", "seedlings": 345 },
+      { "month": "2025-06", "seedlings": 405 },
+      { "month": "2025-07", "seedlings": 445 },
+      { "month": "2025-08", "seedlings": 500 },
+      { "month": "2025-09", "seedlings": 565 }
+    ],
+    "sites": [
+      { "name": "Kilim Karst Geoforest Park", "plots": 3, "seedlings": 165, "alive": 140, "survivalRate": 85 },
+      { "name": "Matang Mangrove Forest Reserve", "plots": 3, "seedlings": 145, "alive": 100, "survivalRate": 69 },
+      { "name": "Kina Benuwa Mangrove Ecology Park", "plots": 4, "seedlings": 255, "alive": 191, "survivalRate": 75 }
+    ],
+    "timeline": [
+      { "date": "2025-01", "cumulative": 80 },
+      { "date": "2025-02", "cumulative": 180 },
+      { "date": "2025-03", "cumulative": 230 },
+      { "date": "2025-04", "cumulative": 300 },
+      { "date": "2025-05", "cumulative": 345 },
+      { "date": "2025-06", "cumulative": 405 },
+      { "date": "2025-07", "cumulative": 445 },
+      { "date": "2025-08", "cumulative": 500 },
+      { "date": "2025-09", "cumulative": 565 }
+    ]
+  }
+}
